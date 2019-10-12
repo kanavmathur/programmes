@@ -32,7 +32,7 @@ return h;
 else
 {
 int max=0;
-for(j=1;j<=a;i++)
+for(j=1;j<=a;j++)
 {
 if(a%i==0 && b%i==0)
 {
